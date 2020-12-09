@@ -1,0 +1,30 @@
+body{
+    background-color: #2a4d69;
+    padding: 5.7%;
+}
+.cm{
+    font-size: 130%;
+    font-family: 'New Wave Aztec', sans-self;
+}
+.articulo{
+    background-color: rgb(173,203,227);
+    padding: 2%;
+}
+.rico{
+    background-color: #e7eff6;
+    padding: 2%;
+}
+.Mapa{
+    background-color: rgb(173,203,227);
+    padding: 2%;
+}
+footer{
+    position: fixed;
+    bottom: 0%;
+    width: 89%;
+    background: #63ace5;
+    text-align: center;
+    line-height: 25px;
+    font-size: 10px;
+    color: #fff;
+}
